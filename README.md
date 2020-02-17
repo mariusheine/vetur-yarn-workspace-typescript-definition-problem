@@ -18,8 +18,5 @@ Then start the frontend with watch mode
 ```
 cd frontend && yarn serve
 ```
-When change files in the frontend workspace then hot reload takes place.
+When files changes in the frontend workspace then hot reload takes place.
 Whenever you change something in the common workspace you need to manually build it again.
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
