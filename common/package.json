@@ -1,0 +1,10 @@
+{
+  "name": "@vetur-yarn-workspace-typescript-definition-problem/common",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "tsc"
+  }
+}

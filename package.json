@@ -1,0 +1,9 @@
+{
+  "name": "vetur-yarn-workspace-typescript-definition-problem",
+  "author": "Marius Heine",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "frontend", "common"
+  ]
+}
